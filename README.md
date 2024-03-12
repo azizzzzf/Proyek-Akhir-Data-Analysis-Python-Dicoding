@@ -12,7 +12,7 @@ Proyek akhir bertujuan untuk menganalisis data dari E-Commerce Public Dataset da
 
 ## Instalasi Tools
 Dalam menjalankan proyek ini, pastikan anda telah menginstall seluruh tools yang diperlukan. Untuk itu anda dapat melakukan instruksi berikut pada local anda:
-`pip install streamlit
-pip install -r dashboard/requirements.txt`
+>pip install streamlit
+pip install -r dashboard/requirements.txt
 
 Setelah itu anda dapat membuka file dengan run main.py pada local directory anda.
